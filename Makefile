@@ -2,4 +2,4 @@ start:
 	docker-compose up
 
 terminal:
-	docker-compose exec mane bash
+	docker-compose exec devkit bash
